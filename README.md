@@ -99,6 +99,7 @@ A list of frontend development resources collected.
 	+ [Markdown syntax explain-cn](http://wowubuntu.com/markdown/) Markdown语法说明-中文版
 	+ [Html to markdown](http://higrid.net/c-html2md.htm)
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
+	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
 
 ## License
 
