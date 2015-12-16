@@ -9,23 +9,24 @@ A list of frontend development resources collected.
 		+ [MooTools](http://mootools.net/)
 		+ [Prototype](http://www.prototypejs.org/)
 		+ [Underscore.JS](http://documentcloud.github.com/underscore/)
-	+ ui 
+	+ ui
 		+ [Bootstrap](http://getbootstrap.com/)
 		+ [jQuery UI](http://jqueryui.com/)
+		+ [Semantic-ui](http://semantic-ui.com/)
+		+ [Purecss](http://purecss.io/)
 		+ [KISSY](http://docs.kissyui.com/)
 		+ [EasyUI](http://www.jeasyui.com/)
 		+ [amazeui](http://amazeui.org/) HTML5跨屏前端框架
-	+ mvc
+	+ mvx
 		+ [React](http://facebook.github.io/react/)
-		+ [angularjs](https://angularjs.org/)
+		+ [Angularjs](https://angularjs.org/)
 		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
 		+ [Polymer](https://www.polymer-project.org/)
 		+ [Backbone.js](http://backbonejs.org/)
 		+ [Backbone.js document-cn](http://www.css88.com/doc/backbone/) backbone中文文档
-	+ mvvm
 		+ [avalon](http://avalonjs.github.io/)
 		+ [knockoutjs](http://knockoutjs.com/)
-	+ js file module loader
+	+ js file/module loader
 		+ [Sea.js](http://seajs.org/)
 		+ [RequireJS](http://www.requirejs.org/)
 	+ editor
@@ -36,9 +37,13 @@ A list of frontend development resources collected.
 		+ [ECharts](http://echarts.baidu.com/)
 		+ [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
 	+ template engine
-		+ [handlebarsjs](http://handlebarsjs.com/)
+		+ [Handlebarsjs](http://handlebarsjs.com/)
+		+ [Mustache](https://mustache.github.io/) Logic-less
+		+ [Nunjucks](http://mozilla.github.io/nunjucks/) Jinjia like
+		+ [T.js](https://github.com/jasonmoo/t.js) Tiny javascript templating(400 **bytes** gzipped)
 + nodejs
 	+  [nodejs](https://nodejs.org)
+	+  [taobao npm](http://npm.taobao.org/)
 + css
     + [CSS2-w3c](http://www.w3.org/TR/CSS2/)
 	+ [Object-Oriented CSS](http://oocss.org/)
@@ -50,7 +55,7 @@ A list of frontend development resources collected.
 	+ [Yeoman](http://yeoman.io/)
 	+ [Gulp](http://gulpjs.com/)
 	+ [webpack](https://webpack.github.io/)
-	+ [FIS](http://fis.baidu.com/) 百度前端集成解决方案                
+	+ [FIS](http://fis.baidu.com/) 百度前端集成解决方案
 	+ [Modjs](http://madscript.com/modjs/) 来自腾讯的前端构建工具
 	+ [JDF](https://github.com/putaoshu/jdf/) 京东前端集成解决方案
 	+ [Bower](http://bower.io/) A package manager for the web
@@ -84,7 +89,7 @@ A list of frontend development resources collected.
 	+ [Stack Overflow](http://stackoverflow.com/)
 	+ [SegmentFault](http://segmentfault.com/) 一个开发者社区
 	+ [Div.io](http://div.io/) 高质量前端资源汇聚
-	+ [51js](http://www.51js.com/) 
+	+ [51js](http://www.51js.com/)
 + web community
 	+ [51cto](http://www.51cto.com/)
 	+ [JavaEye](http://www.javaeye.com/)
@@ -97,12 +102,14 @@ A list of frontend development resources collected.
 + game
 	+ [Cocos2d-x homepage](http://cocos2d-x.org/)
 	+ [Cocos2d-HTML5](http://cocos2d-x.org/npm/cocos2d-html5/index.html)
+	+ [p2.js 2D](http://schteppe.github.io/p2.js/)
 + fe tools
 	+ [Can I use](http://caniuse.com/) Provides up-to-date browser support tables for support
+	+ [devdocs](http://devdocs.io/) 文档查看利器（支持离线）
 	+ [JSONLint](http://jsonlint.com/)
 	+ [Regex Tester](http://regexpal.com/)
 	+ [QR online create](http://putaoshublog.sinaapp.com/lab/tool/qr.html)
-	+ [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) 
+	+ [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 	+ [Markdown syntax explain-cn](http://wowubuntu.com/markdown/) Markdown语法说明-中文版
 	+ [Html to markdown](http://higrid.net/c-html2md.htm)
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
