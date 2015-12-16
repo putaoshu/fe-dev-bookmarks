@@ -4,7 +4,8 @@ A list of frontend development resources collected.
 + javascript
 	+ library
 		+ [jQuery](https://jquery.com/)
-		+ [jQuery origin code search](http://oscarotero.com/jquery/) jquery源码检索
+		+ [jQuery API](http://oscarotero.com/jquery/)
+		+ [jQuery origin code](http://oscarotero.com/jquery/)
 		+ [MooTools](http://mootools.net/)
 		+ [Prototype](http://www.prototypejs.org/)
 		+ [Underscore.JS](http://documentcloud.github.com/underscore/)
@@ -17,12 +18,11 @@ A list of frontend development resources collected.
 	+ mvc
 		+ [React](http://facebook.github.io/react/)
 		+ [angularjs](https://angularjs.org/)
+		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
 		+ [Polymer](https://www.polymer-project.org/)
 		+ [Backbone.js](http://backbonejs.org/)
 		+ [Backbone.js document-cn](http://www.css88.com/doc/backbone/) backbone中文文档
 	+ mvvm
-		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
-		+ [angularjs](https://angularjs.org/)
 		+ [avalon](http://avalonjs.github.io/)
 		+ [knockoutjs](http://knockoutjs.com/)
 	+ js file module loader
@@ -35,6 +35,8 @@ A list of frontend development resources collected.
 		+ [highcharts](http://www.highcharts.com/)
 		+ [ECharts](http://echarts.baidu.com/)
 		+ [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
+	+ template engine
+		+ [handlebarsjs](http://handlebarsjs.com/)
 + nodejs
 	+  [nodejs](https://nodejs.org)
 + css
@@ -105,14 +107,8 @@ A list of frontend development resources collected.
 	+ [Html to markdown](http://higrid.net/c-html2md.htm)
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
 	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
+	+ [Font Awesome Icons](http://fontawesome.io/icons/)
 
-// 模板引擎
-http://handlebarsjs.com/
-//组件
-swiper.com.cn
-//字体图标
-http://test.h-ui.net/Hui-3.7-iconfont.shtml
-http://fontawesome.io/icons/
 ## License
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
