@@ -35,16 +35,22 @@ A list of frontend development resources collected.
 		+ [highcharts](http://www.highcharts.com/)
 		+ [ECharts](http://echarts.baidu.com/)
 		+ [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
+		+ [raphaeljs](http://raphaeljs.com/) SVG类库
 	+ template engine
 		+ [handlebarsjs](http://handlebarsjs.com/)
+		+ [tmodjs](https://github.com/aui/tmodjs)
+		+ [juicer](http://juicer.name/)
 + nodejs
-	+  [nodejs](https://nodejs.org)
+	+ [nodejs](https://nodejs.org)
+	+ [npm](https://www.npmjs.com/)
+	+ [cnodejs](https://cnodejs.org/) nodejs 社区
 + css
     + [CSS2-w3c](http://www.w3.org/TR/CSS2/)
 	+ [Object-Oriented CSS](http://oocss.org/)
 	+ [IE User Agent Style Sheets](http://www.iecss.com/)
 	+ [IE bug](http://www.positioniseverything.net/explorer.html)
 	+ [One div](http://one-div.com/)
+	+ [CodePen](http://codepen.io/) playground for animation
 + fe engineering
 	+ [Grunt](http://gruntjs.com/)
 	+ [Yeoman](http://yeoman.io/)
@@ -68,6 +74,8 @@ A list of frontend development resources collected.
 	+ [iScroll 4](http://cubiq.org/iscroll-4)
 	+ [mobile frontend development debug](http://yujiangshui.com/multidevice-frontend-debug/) 移动端前端开发调试 | 于江水
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
++ database
+	+ [mongoDB](https://docs.mongodb.org/manual/)
 + ued homepage
 	+ [JDC](http://jdc.jd.com/) 京东设计中心
 	+ [Taobao FED](http://taobaofed.org/) 淘宝前端团队
@@ -85,6 +93,7 @@ A list of frontend development resources collected.
 	+ [SegmentFault](http://segmentfault.com/) 一个开发者社区
 	+ [Div.io](http://div.io/) 高质量前端资源汇聚
 	+ [51js](http://www.51js.com/) 
+	+ [V2EX](https://v2ex.com) 
 + web community
 	+ [51cto](http://www.51cto.com/)
 	+ [JavaEye](http://www.javaeye.com/)
@@ -108,6 +117,7 @@ A list of frontend development resources collected.
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
 	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
 	+ [Font Awesome Icons](http://fontawesome.io/icons/)
+	+ [Tinypng](https://tinypng.com/) PNG 压缩
 
 ## License
 
