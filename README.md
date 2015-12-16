@@ -20,6 +20,11 @@ A list of frontend development resources collected.
 		+ [Polymer](https://www.polymer-project.org/)
 		+ [Backbone.js](http://backbonejs.org/)
 		+ [Backbone.js document-cn](http://www.css88.com/doc/backbone/) backbone中文文档
+	+ mvvm
+		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
+		+ [angularjs](https://angularjs.org/)
+		+ [avalon](http://avalonjs.github.io/)
+		+ [knockoutjs](http://knockoutjs.com/)
 	+ js file module loader
 		+ [Sea.js](http://seajs.org/)
 		+ [RequireJS](http://www.requirejs.org/)
@@ -101,7 +106,16 @@ A list of frontend development resources collected.
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
 	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
 
+// 模板引擎
+http://handlebarsjs.com/
+//组件
+swiper.com.cn
+//字体图标
+http://test.h-ui.net/Hui-3.7-iconfont.shtml
+http://fontawesome.io/icons/
 ## License
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
 
