@@ -36,26 +36,33 @@ A list of frontend development resources collected.
 		+ [highcharts](http://www.highcharts.com/)
 		+ [ECharts](http://echarts.baidu.com/)
 		+ [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
+		+ [raphaeljs](http://raphaeljs.com/) SVG类库
 	+ template engine
 		+ [Handlebarsjs](http://handlebarsjs.com/)
 		+ [Mustache](https://mustache.github.io/) Logic-less
 		+ [Nunjucks](http://mozilla.github.io/nunjucks/) Jinjia like
 		+ [T.js](https://github.com/jasonmoo/t.js) Tiny javascript templating(400 **bytes** gzipped)
+		+ [tmodjs](https://github.com/aui/tmodjs)
+		+ [juicer](http://juicer.name/)
     + ES6
         + [ES6兼容性查询](http://kangax.github.io/compat-table/es6/)
         + [Babel](http://babeljs.io/) JavaScript编译器，可将ES6代码编译成ES5代码。
         + [Traceur](https://github.com/google/traceur-compiler) JavaScript编译器，可将ES6代码编译成ES5代码。Google出品。
-        + [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) Nicholas C. Zakas大神出品。
+        + [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) Nicholas C. Zakas大神出品。ES6入门推荐。
         + [Exploring ES6](http://exploringjs.com/es6/) Dr. Axel Rauschmayer大神出品，写的比较详细，可以作为参考手册。
+
 + nodejs
-	+  [nodejs](https://nodejs.org)
-	+  [taobao npm](http://npm.taobao.org/)
+	+ [nodejs](https://nodejs.org)
+	+ [taobao npm](http://npm.taobao.org/)
+	+ [npm](https://www.npmjs.com/)
+	+ [cnodejs](https://cnodejs.org/) nodejs 社区
 + css
     + [CSS2-w3c](http://www.w3.org/TR/CSS2/)
 	+ [Object-Oriented CSS](http://oocss.org/)
 	+ [IE User Agent Style Sheets](http://www.iecss.com/)
 	+ [IE bug](http://www.positioniseverything.net/explorer.html)
 	+ [One div](http://one-div.com/)
+	+ [CodePen](http://codepen.io/) playground for animation
 + fe engineering
 	+ [Grunt](http://gruntjs.com/)
 	+ [Yeoman](http://yeoman.io/)
@@ -79,6 +86,8 @@ A list of frontend development resources collected.
 	+ [iScroll 4](http://cubiq.org/iscroll-4)
 	+ [mobile frontend development debug](http://yujiangshui.com/multidevice-frontend-debug/) 移动端前端开发调试 | 于江水
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
++ database
+	+ [mongoDB](https://docs.mongodb.org/manual/)
 + ued homepage
 	+ [JDC](http://jdc.jd.com/) 京东设计中心
 	+ [Taobao FED](http://taobaofed.org/) 淘宝前端团队
@@ -95,7 +104,8 @@ A list of frontend development resources collected.
 	+ [Stack Overflow](http://stackoverflow.com/)
 	+ [SegmentFault](http://segmentfault.com/) 一个开发者社区
 	+ [Div.io](http://div.io/) 高质量前端资源汇聚
-	+ [51js](http://www.51js.com/)
+	+ [51js](http://www.51js.com/) 
+	+ [V2EX](https://v2ex.com) 
 + web community
 	+ [51cto](http://www.51cto.com/)
 	+ [JavaEye](http://www.javaeye.com/)
@@ -121,6 +131,7 @@ A list of frontend development resources collected.
 	+ [Markdown to html](http://putaoshublog.sinaapp.com/lab/markdown_js/index.html)
 	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
 	+ [Font Awesome Icons](http://fontawesome.io/icons/)
+	+ [Tinypng](https://tinypng.com/) PNG 压缩
 
 ## License
 
