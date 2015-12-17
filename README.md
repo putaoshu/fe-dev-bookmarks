@@ -41,6 +41,12 @@ A list of frontend development resources collected.
 		+ [Mustache](https://mustache.github.io/) Logic-less
 		+ [Nunjucks](http://mozilla.github.io/nunjucks/) Jinjia like
 		+ [T.js](https://github.com/jasonmoo/t.js) Tiny javascript templating(400 **bytes** gzipped)
+    + ES6
+        + [ES6兼容性查询](http://kangax.github.io/compat-table/es6/)
+        + [Babel](http://babeljs.io/) JavaScript编译器，可将ES6代码编译成ES5代码。
+        + [Traceur](https://github.com/google/traceur-compiler) JavaScript编译器，可将ES6代码编译成ES5代码。Google出品。
+        + [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) Nicholas C. Zakas大神出品。
+        + [Exploring ES6](http://exploringjs.com/es6/) Dr. Axel Rauschmayer大神出品，写的比较详细，可以作为参考手册。
 + nodejs
 	+  [nodejs](https://nodejs.org)
 	+  [taobao npm](http://npm.taobao.org/)
