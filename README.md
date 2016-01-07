@@ -9,6 +9,10 @@ A list of frontend development resources collected.
 		+ [MooTools](http://mootools.net/)
 		+ [Prototype](http://www.prototypejs.org/)
 		+ [Underscore.JS](http://documentcloud.github.com/underscore/)
+		+ [microjs](http://microjs.com/)
+	+ framework
+		+ [sencha](https://www.sencha.com/)
+		+ [Dojo](http://dojotoolkit.org/)
 	+ ui
 		+ [Bootstrap](http://getbootstrap.com/)
 		+ [jQuery UI](http://jqueryui.com/)
@@ -29,6 +33,8 @@ A list of frontend development resources collected.
 	+ js file/module loader
 		+ [Sea.js](http://seajs.org/)
 		+ [RequireJS](http://www.requirejs.org/)
+		+ [lazyload.js](https://github.com/rgrove/lazyload/)
+		+ [curl](https://github.com/unscriptable/curl)
 	+ editor
 		+ [UEditor](http://ueditor.baidu.com/website/index.html) 百度富文本web编辑器
 		+ [CKEditor](http://ckeditor.com/)
@@ -45,17 +51,23 @@ A list of frontend development resources collected.
 		+ [tmodjs](https://github.com/aui/tmodjs)
 		+ [juicer](http://juicer.name/)
     + ES6
+    	+ [tc39](https://github.com/tc39)
+    	+ [es-discourse](http://es-discourse.com/)
+    	+ [规范网页版](http://www.ecma-international.org/ecma-262/6.0/)
+    	+ [es6-in-depth](https://hacks.mozilla.org/category/es6-in-depth/)
         + [ES6兼容性查询](http://kangax.github.io/compat-table/es6/)
         + [Babel](http://babeljs.io/) JavaScript编译器，可将ES6代码编译成ES5代码。
         + [Traceur](https://github.com/google/traceur-compiler) JavaScript编译器，可将ES6代码编译成ES5代码。Google出品。
         + [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) Nicholas C. Zakas大神出品。ES6入门推荐。
         + [Exploring ES6](http://exploringjs.com/es6/) Dr. Axel Rauschmayer大神出品，写的比较详细，可以作为参考手册。
-
+		+ [JavaScript 20 years](http://brendaneich.github.io/ModernWeb.tw-2015/) Eich 台湾演讲 PPT
 + nodejs
 	+ [nodejs](https://nodejs.org)
 	+ [taobao npm](http://npm.taobao.org/)
 	+ [npm](https://www.npmjs.com/)
 	+ [cnodejs](https://cnodejs.org/) nodejs 社区
+	+ [koajs](http://koajs.in/)  下一代 nodejs web 框架
+	+ [koajs.cn](http://koa.rednode.cn/) koajs 中文社区
 + css
     + [CSS2-w3c](http://www.w3.org/TR/CSS2/)
 	+ [Object-Oriented CSS](http://oocss.org/)
@@ -63,6 +75,7 @@ A list of frontend development resources collected.
 	+ [IE bug](http://www.positioniseverything.net/explorer.html)
 	+ [One div](http://one-div.com/)
 	+ [CodePen](http://codepen.io/) playground for animation
+	+ [csstriggers](http://csstriggers.com/)  
 + fe engineering
 	+ [Grunt](http://gruntjs.com/)
 	+ [Yeoman](http://yeoman.io/)
@@ -79,6 +92,7 @@ A list of frontend development resources collected.
 	+ [JQuery Core Style Guidelines](http://contribute.jquery.org/style-guide/js/)
 + mobile
 	+ [zepto](http://zeptojs.com/) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
+	+ [sencha touch](http://docs.sencha.com/touch/)
 	+ [GMU](http://gmu.baidu.com/) 百度基于zepto的mobile UI组件库
 	+ [PhoneGap](http://phonegap.com/)
 	+ [Ionic](http://ionicframework.com/) Advanced HTML5 Hybrid Mobile App Framework
@@ -86,6 +100,8 @@ A list of frontend development resources collected.
 	+ [iScroll 4](http://cubiq.org/iscroll-4)
 	+ [mobile frontend development debug](http://yujiangshui.com/multidevice-frontend-debug/) 移动端前端开发调试 | 于江水
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
+	+ [detectmobile](http://detectmobilebrowsers.com/) 移动设备适配库
+	+ [mobilehtml5](http://mobilehtml5.org/) HTML5 移动端兼容性速查
 + database
 	+ [mongoDB](https://docs.mongodb.org/manual/)
 + ued homepage
@@ -94,6 +110,7 @@ A list of frontend development resources collected.
 	+ [Tencent AlloyTeam ](http://alloyteam.github.io/) Tencent AlloyTeam
 	+ [Tencent ISUX](http://isux.tencent.com/) 腾讯ISUX社交用户体验设计
 	+ [75team](http://www.75team.com/) 奇舞团-奇虎360前端团队
+	+ [ctrip UED](http://ued.ctrip.com/blog/) 携程设计委员会
 + document platform
 	+ [W3c](http://www.w3.org/)
 	+ [MSDN](http://msdn.microsoft.com/zh-cn/library/)
