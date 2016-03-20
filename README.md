@@ -92,12 +92,18 @@ A list of frontend development resources collected.
 	+ [JQuery Core Style Guidelines](http://contribute.jquery.org/style-guide/js/)
 + mobile
 	+ [zepto](http://zeptojs.com/) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
-	+ [sencha touch](http://docs.sencha.com/touch/)
+	+ [MUI](http://dev.dcloud.net.cn/mui/) 
+	+ [Framework7](http://framework7.taobao.org/)
+	+ [Touch.js](http://touch.code.baidu.com/) 
+	+ [IScroll 5](http://cubiq.org/iscroll-5) 
+	+ [Amaze UI](http://amazeui.org/) 
+	+ [SUI Mobile](http://m.sui.taobao.org/) 
+	+ [Ant Design](http://ant.design/) 
 	+ [GMU](http://gmu.baidu.com/) 百度基于zepto的mobile UI组件库
+	+ [sencha touch](http://docs.sencha.com/touch/)
+	+ [react native](https://facebook.github.io/react-native/) 
 	+ [PhoneGap](http://phonegap.com/)
 	+ [Ionic](http://ionicframework.com/) Advanced HTML5 Hybrid Mobile App Framework
-	+ [Framework7](http://framework7.taobao.org/)
-	+ [iScroll 4](http://cubiq.org/iscroll-4)
 	+ [mobile frontend development debug](http://yujiangshui.com/multidevice-frontend-debug/) 移动端前端开发调试 | 于江水
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
 	+ [detectmobile](http://detectmobilebrowsers.com/) 移动设备适配库
