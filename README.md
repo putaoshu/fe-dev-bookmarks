@@ -23,6 +23,11 @@ A list of frontend development resources collected.
 		+ [amazeui](http://amazeui.org/) HTML5跨屏前端框架
 	+ mvx
 		+ [React](http://facebook.github.io/react/)
+			+ [react-redux](https://github.com/reactjs/react-redux
+			+ [react-router](https://github.com/reactjs/react-router
+			+ [react-router-redux](https://github.com/reactjs/react-router-redux
+			+ [flux](https://github.com/facebook/flux
+			+ [immutable.js](https://facebook.github.io/immutable-js/
 		+ [Angularjs](https://angularjs.org/)
 		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
 		+ [Polymer](https://www.polymer-project.org/)
@@ -159,6 +164,4 @@ A list of frontend development resources collected.
 ## License
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-
 
