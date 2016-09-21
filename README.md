@@ -161,7 +161,7 @@ A list of frontend development resources collected.
 	+ [Font Awesome Icons](http://fontawesome.io/icons/)
 	+ [Tinypng](https://tinypng.com/) PNG 压缩
 + fe weekly
-	+ [JavaScript Weekly](http://jsonlint.com/)
+	+ [JavaScript Weekly](http://javascriptweekly.com/)
 	+ [码农周刊](http://weekly.manong.io/)
 	+ [奇舞周刊](http://old.75team.com/weekly/)
 
