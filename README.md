@@ -1,7 +1,9 @@
 # frontend-development-bookmarks
 A list of frontend development resources collected.
 
-+ javascript
+## javascript
+
++ 
 	+ library
 		+ [jQuery](https://jquery.com/)
 		+ [jQuery API](http://oscarotero.com/jquery/)
@@ -66,14 +68,20 @@ A list of frontend development resources collected.
         + [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) Nicholas C. Zakas大神出品。ES6入门推荐。
         + [Exploring ES6](http://exploringjs.com/es6/) Dr. Axel Rauschmayer大神出品，写的比较详细，可以作为参考手册。
 		+ [JavaScript 20 years](http://brendaneich.github.io/ModernWeb.tw-2015/) Eich 台湾演讲 PPT
-+ nodejs
+
+## nodejs
+
++ 
 	+ [nodejs](https://nodejs.org)
 	+ [taobao npm](http://npm.taobao.org/)
 	+ [npm](https://www.npmjs.com/)
 	+ [cnodejs](https://cnodejs.org/) nodejs 社区
 	+ [koajs](http://koajs.in/)  下一代 nodejs web 框架
 	+ [koajs.cn](http://koa.rednode.cn/) koajs 中文社区
-+ css
+
+## css
+
++ 
     + [CSS2-w3c](http://www.w3.org/TR/CSS2/)
 	+ [Object-Oriented CSS](http://oocss.org/)
 	+ [IE User Agent Style Sheets](http://www.iecss.com/)
@@ -81,7 +89,10 @@ A list of frontend development resources collected.
 	+ [One div](http://one-div.com/)
 	+ [CodePen](http://codepen.io/) playground for animation
 	+ [csstriggers](http://csstriggers.com/)  
-+ fe engineering
+
+## fe engineering
+
++ 
 	+ [Grunt](http://gruntjs.com/)
 	+ [Yeoman](http://yeoman.io/)
 	+ [Gulp](http://gulpjs.com/)
@@ -90,12 +101,18 @@ A list of frontend development resources collected.
 	+ [Modjs](http://madscript.com/modjs/) 来自腾讯的前端构建工具
 	+ [JDF](https://github.com/putaoshu/jdf/) 京东前端集成解决方案
 	+ [Bower](http://bower.io/) A package manager for the web
-+ standard
+
+## standard
+
++ 
 	+ [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 	+ [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 	+ [Google HTML/CSS Style Guide - cn](https://github.com/romoo/google-html-css-style-guide) Google HTML/CSS 风格指南
 	+ [JQuery Core Style Guidelines](http://contribute.jquery.org/style-guide/js/)
-+ mobile
+
+## mobile
+
++ 
 	+ [zepto](http://zeptojs.com/) a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 	+ [MUI](http://dev.dcloud.net.cn/mui/) 
 	+ [Framework7](http://framework7.taobao.org/)
@@ -113,41 +130,65 @@ A list of frontend development resources collected.
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
 	+ [detectmobile](http://detectmobilebrowsers.com/) 移动设备适配库
 	+ [mobilehtml5](http://mobilehtml5.org/) HTML5 移动端兼容性速查
-+ database
+
+## database
+
++ 
 	+ [mongoDB](https://docs.mongodb.org/manual/)
-+ ued homepage
+
+## ued homepage
+
++ 
 	+ [JDC](http://jdc.jd.com/) 京东设计中心
 	+ [Taobao FED](http://taobaofed.org/) 淘宝前端团队
 	+ [Tencent AlloyTeam ](http://alloyteam.github.io/) Tencent AlloyTeam
 	+ [Tencent ISUX](http://isux.tencent.com/) 腾讯ISUX社交用户体验设计
 	+ [75team](http://www.75team.com/) 奇舞团-奇虎360前端团队
 	+ [ctrip UED](http://ued.ctrip.com/blog/) 携程设计委员会
-+ document platform
+
+## document platform
+
++ 
 	+ [W3c](http://www.w3.org/)
 	+ [MSDN](http://msdn.microsoft.com/zh-cn/library/)
 	+ [Mozilla Developer](https://developer.mozilla.org/en-US/)
 	+ [W3Help](http://www.w3help.org/zh-cn/)
 	+ [W3Schools](http://www.w3schools.com/)
-+ fe community
+
+## fe community
+
++ 
 	+ [Stack Overflow](http://stackoverflow.com/)
 	+ [SegmentFault](http://segmentfault.com/) 一个开发者社区
 	+ [Div.io](http://div.io/) 高质量前端资源汇聚
 	+ [51js](http://www.51js.com/) 
 	+ [V2EX](https://v2ex.com) 
-+ web community
+
+## web community
+
++ 
 	+ [51cto](http://www.51cto.com/)
 	+ [JavaEye](http://www.javaeye.com/)
-+ meeting
+
+## meeting
+
++ 
 	+ [D2](http://d2forum.alibaba-inc.com/) 前端技术论坛
 	+ [W3ctech](http://www.w3ctech.com/)
 	+ [Webrebuild](http://www.webrebuild.org/)
 	+ [JSConf](http://jsconf.cn/)
 	+ [Baidu technology salon](http://www.infoq.com/cn/zones/baidu-salon/) 百度技术沙龙
-+ game
+
+## game
+
++ 
 	+ [Cocos2d-x homepage](http://cocos2d-x.org/)
 	+ [Cocos2d-HTML5](http://cocos2d-x.org/npm/cocos2d-html5/index.html)
 	+ [p2.js 2D](http://schteppe.github.io/p2.js/)
-+ fe tools
+
+## fe tools
+
++ 
 	+ [Can I use](http://caniuse.com/) Provides up-to-date browser support tables for support
 	+ [devdocs](http://devdocs.io/) 文档查看利器（支持离线）
 	+ [JSONLint](http://jsonlint.com/)
@@ -160,11 +201,17 @@ A list of frontend development resources collected.
 	+ [FeHelper](http://www.baidufe.com/fehelper) 前端fe助手(chrome插件)
 	+ [Font Awesome Icons](http://fontawesome.io/icons/)
 	+ [Tinypng](https://tinypng.com/) PNG 压缩
-+ fe weekly
+
+## fe weekly
+
++ 
 	+ [JavaScript Weekly](http://javascriptweekly.com/)
 	+ [码农周刊](http://weekly.manong.io/)
 	+ [奇舞周刊](http://old.75team.com/weekly/)
-+ fe article
+
+## fe article
+
++ 
 	+ [一个合格程序员该做的事情 你做好了吗？](http://www.vaikan.com/principles-of-good-programming/)
 	+ [每个程序员都必须遵守的编程原则](http://fellow.51cto.com/art/200904/120527.htm)
 	+ [程序员技术练级攻略](http://coolshell.cn/articles/4990.html)
@@ -190,7 +237,6 @@ A list of frontend development resources collected.
 	+ [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 	+ [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/)
 	+ []()		
-	+ [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 	+ [使用Flexible实现手淘H5页面的终端适配](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=422162281&idx=2&sn=b844c99c92475e281031263891f6fa8b&scene=2&srcid=1120CAtKpqUJdKGyOPqsb5AO#rd)
 	+ [移动前端开发之viewport的深入理解](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=388124021&idx=1&sn=175ee9b47b17dde0f30f6c42130ed5e2&scene=2&srcid=1001YjwDFG36IWOLzli79pqx#rd)
 	+ [移动端300ms点击延迟和点击穿透问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651550872&idx=1&sn=a7bdcd025acb6e7c6af72628ee4d60a6&scene=2&srcid=052466AQdjGnswcK2B2NTTdO#rd)
