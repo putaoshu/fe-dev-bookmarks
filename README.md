@@ -164,8 +164,41 @@ A list of frontend development resources collected.
 	+ [JavaScript Weekly](http://javascriptweekly.com/)
 	+ [码农周刊](http://weekly.manong.io/)
 	+ [奇舞周刊](http://old.75team.com/weekly/)
++ fe article
+	+ [一个合格程序员该做的事情 你做好了吗？](http://www.vaikan.com/principles-of-good-programming/)
+	+ [每个程序员都必须遵守的编程原则](http://fellow.51cto.com/art/200904/120527.htm)
+	+ [程序员技术练级攻略](http://coolshell.cn/articles/4990.html)
+	+ [Web前端研发工程师编程能力飞升之路](http://developer.51cto.com/art/201103/250777_all.htm)
+	+ [前端大牛Nicholas得到的最佳职业生涯建议](http://blog.jobbole.com/53812/)
+	+ []()	
+	+ [css属性的选择对动画性能的影响](http://ued.ctrip.com/blog/css-properties-selection-influence-on-performance-of-animation.html)
+	+ [CSS动画中的贝塞尔](http://ued.ctrip.com/blog/4362.html)
+	+ [Array.prototype.sort 在不同浏览器中的差异和解决办法](http://ued.ctrip.com/blog/array-prototype-sort-differences-in-different-browsers-and-solution.html)
+	+ [利用css3-animation来制作逐帧动画](https://www.qianduan.net/css3-animation/)
+	+ [骨骼动画原理与前端实现浅谈](http://taobaofed.org/blog/2015/11/30/animation-bone/)
+	+ [[译文]网页动画的十二原则](http://www.jianshu.com/p/1858a8733ba3)
+	+ [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
+	+ [Flex 布局教程：语法篇---阮一峰](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=378100044&idx=1&sn=34f1acb5e3562a639e6fd2558c2f6363&scene=2&srcid=0920RhSf6ZuhqqlqydBsmU3y#rd)
+	+ [Flex 布局教程：实例篇---阮一峰](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=378856600&idx=1&sn=9c0a05cf0801e0ee066439303afc1dbf&scene=2&srcid=0921HARE3zZxeQ7JOzTMQC3u#rd)	
+	+ []()	
+	+ [ES6 你可能不知道的事 - 进阶篇](http://taobaofed.org/blog/2016/11/03/es6-advanced/)
+	+ [ES6 你可能不知道的事 - 基础篇](http://taobaofed.org/blog/2016/07/22/es6-basics/)
+	+ [如何实现一个 CMD 模块加载器](http://div.io/topic/1350)
+	+ [深入到源码：解读 redux 的设计思路与用法](http://div.io/topic/1309)
+	+ [前端数据驱动的价值](http://div.io/topic/1574)
+	+ [JS学习：JavaScript的核心](http://ourjs.com/detail/529bc7e44c742ef031000002)
+	+ [浏览器的工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+	+ [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/)
+	+ []()		
+	+ [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+	+ [使用Flexible实现手淘H5页面的终端适配](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=422162281&idx=2&sn=b844c99c92475e281031263891f6fa8b&scene=2&srcid=1120CAtKpqUJdKGyOPqsb5AO#rd)
+	+ [移动前端开发之viewport的深入理解](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=388124021&idx=1&sn=175ee9b47b17dde0f30f6c42130ed5e2&scene=2&srcid=1001YjwDFG36IWOLzli79pqx#rd)
+	+ [移动端300ms点击延迟和点击穿透问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651550872&idx=1&sn=a7bdcd025acb6e7c6af72628ee4d60a6&scene=2&srcid=052466AQdjGnswcK2B2NTTdO#rd)
+	+ [【第289期】前端自动化测试探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=206866370&idx=1&sn=d077f69f3434d0cee86bdf486756f85b&scene=2#rd)
+	+ [前端技术的开放和封闭](http://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=382345737&idx=1&sn=cdd7ebcd937f9d9529c21cd8d23a8596&scene=2&srcid=0925vKTKxsusKSrmGpgVZiRf#rd)
+
 
 ## License
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) .
 
