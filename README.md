@@ -208,6 +208,9 @@ A list of frontend development resources collected.
 	+ [JavaScript Weekly](http://javascriptweekly.com/)
 	+ [码农周刊](http://weekly.manong.io/)
 	+ [奇舞周刊](http://old.75team.com/weekly/)
+	+ [css-weekly](http://css-weekly.com/)
+	+ [FrontEnd Focus](http://frontendfocus.co/)
+	
 
 ## fe article
 
